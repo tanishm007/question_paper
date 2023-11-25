@@ -1,0 +1,18 @@
+{
+  "name": "ques_paper_gen",
+  "version": "1.0.0",
+  "description": "question paper generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "type": "module"
+  },
+  "author": "tanish mahajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.0.1"
+  }
+}
